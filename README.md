@@ -117,11 +117,13 @@ Supports granular analysis:
 ---
 
 ## 📷 Dashboard Preview
-_Add screenshots of the dashboards below_
 
-/images/summary_dashboard.png
-/images/overview_dashboard.png
-/images/details_dashboard.png
+
+images/summary_dashboard.png
+
+images/overview_dashboard.png
+
+images/details_dashboard.png
 
 
 ---
