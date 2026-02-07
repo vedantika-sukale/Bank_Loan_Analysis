@@ -118,12 +118,15 @@ Supports granular analysis:
 
 ## 📷 Dashboard Preview
 
+### 🔹 Summary Dashboard
+![Summary Dashboard](images/summary_dashboard.png)
 
-images/summary_dashboard.png
+### 🔹 Overview Dashboard
+![Overview Dashboard](images/overview_dashboard.png)
 
-images/overview_dashboard.png
+### 🔹 Details Dashboard
+![Details Dashboard](images/details_dashboard.png)
 
-images/details_dashboard.png
 
 
 ---
